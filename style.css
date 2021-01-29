@@ -1,0 +1,62 @@
+* {margin: 0 auto; padding-top: 50;}
+body, html {
+    color: black;
+    font-size: 19px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
+.header {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: black;
+    background-color: white;
+    font-size: 40px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
+.body {
+    color: black;
+    background-color: white;
+    font-size: 19px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
+.body__2 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: black;
+    font-size: 40px;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
+.button {
+    background-color: rgb(0, 153, 255);
+    background-size: 200px;
+    color: white;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    border-color: transparent;
+}
+.button:hover {
+    background-color: rgb(0, 162, 255);
+    background-size: 250px;
+    color: white;
+    font-family: Segoe UI,SegoeUI,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 100;
+    text-align: center;
+    transition: 5s ease;
+    font-size: 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    border-color: transparent;
+}
